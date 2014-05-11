@@ -25,5 +25,6 @@ CarrierPigeon push notifications source code.
   - git clone https://github.com/processone/ejabberd.git
   - git checkout -b 2.0.x origin/2.0.x
   - export EJABBERD_PATH=$HOME/ejabberd/src
+- Add `{mod_push_notifications, []}` to the modules section of `/etc/ejabberd/ejabberd.cfg`.
 - Update `src/mod_push_notifications/mod_push_notifications.erl` with the URL for apns.php.
 - Run `make` from `src/mod_push_notifications/`.
