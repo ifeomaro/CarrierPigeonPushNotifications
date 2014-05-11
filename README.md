@@ -28,4 +28,4 @@ CarrierPigeon push notifications source code.
   - export EJABBERD_PATH=$HOME/ejabberd/src
 
 todo: add make file for .erl source
-- Update `src/mod_push_notifications/mod_push_notifications.erl` and replace <hostname> with the hostname of your server (e.g. localhost or an IP address)
+- Update `src/mod_push_notifications/mod_push_notifications.erl` with the URL for apns.php.
