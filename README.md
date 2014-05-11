@@ -1,5 +1,6 @@
 #CarrierPigeonPushNotifications
 
+This push notification source code was used with the [CarrierPigeon iOS project] (https://github.com/mychrisdangelo/CarrierPigeon).
 
 CarrierPigeon push notifications source code.
 
