@@ -1,5 +1,4 @@
-CarrierPigeonPushNotifications
-===============================
+#CarrierPigeonPushNotifications
 
 
 CarrierPigeon push notifications source code.
@@ -12,7 +11,7 @@ CarrierPigeon push notifications source code.
 
 
 
-#Setting Up
+###Setting Up
 
 - Install [XAMPP] (https://www.apachefriends.org/index.html)
 - Copy your sandbox/production certificate to `src/php_src/cert`
