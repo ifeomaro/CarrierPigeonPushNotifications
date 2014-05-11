@@ -1,5 +1,7 @@
 SET FOREIGN_KEY_CHECKS=0;
 
+CREATE SCHEMA `apnsdb` DEFAULT CHARACTER SET utf8 ;
+
 CREATE TABLE `apns_device_history` (
   `pid` int(9) unsigned NOT NULL auto_increment,
   `clientid` varchar(64) NOT NULL,
